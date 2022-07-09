@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "SSH FS - umbc",
+			"uri": "ssh://umbc/"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Final"
+		}
+	]
+}
